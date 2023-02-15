@@ -1,8 +1,0 @@
-Ceiling
-CornerLamp
-DJ
-Door
-Screen
-Speaker
-chair
-unknown
